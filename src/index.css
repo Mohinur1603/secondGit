@@ -1,0 +1,25 @@
+body {
+  font-family: cormorantgaramond-semibold, cormorantgaramond,
+    "cormorant garamond", serif;
+  box-sizing: border-box;
+  background: #000;
+}
+.container {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+}
+section {
+  position: relative;
+  width: 100%;
+  color: aliceblue;
+}
+
+.main {
+  width: 100%;
+  height: 600px;
+  padding: 200px 0px;
+  background-image: url("https://abrakadabra.fun/uploads/posts/2022-02/1645004041_14-abrakadabra-fun-p-zvezdnoe-nebo-temnoe-27.jpg");
+  background-size: cover;
+}
+
